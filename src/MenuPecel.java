@@ -1,4 +1,4 @@
-package src;
+
 abstract class MenuPecel {
     protected String JenisPecel;
     protected double hargaPecelOri;

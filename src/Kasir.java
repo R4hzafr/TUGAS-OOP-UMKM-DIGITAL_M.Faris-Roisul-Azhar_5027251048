@@ -1,4 +1,4 @@
-package src;
+
 class Kasir {
     private double saldoKasir = 0;
 

@@ -1,9 +1,9 @@
-package src;
+
 class PecelKediri extends MenuPecel {
     private boolean pakaiRempeyek;
 
     public PecelKediri(boolean pakaiRempeyek) {
-        super("Pecel Kediri", 10000);
+        super("PecelKediri", 10000);
         this.pakaiRempeyek = pakaiRempeyek;
     }
 

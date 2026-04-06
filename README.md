@@ -7,9 +7,14 @@ UMKM merupakan jantung perekonomian bagi Indonesia.UMKM juga menjadi roda pengge
 
 
 ## code 
-pada mermaid AIL:
+pada mermaid AI
+
 <img width="450" height="697" alt="Screenshot 2026-04-06 at 07 27 20" src="https://github.com/user-attachments/assets/80749120-37e7-46e0-9290-a8f497668d7d" />
+
 pada vs code:
+
+<img width="552" height="224" alt="Screenshot 2026-04-06 at 07 29 06" src="https://github.com/user-attachments/assets/e8d2245f-ac5d-4f21-9812-d3a9de15c543" />
+
 
 
 

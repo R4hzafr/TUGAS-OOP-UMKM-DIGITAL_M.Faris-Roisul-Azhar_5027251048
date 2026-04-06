@@ -6,12 +6,12 @@ UMKM merupakan jantung perekonomian bagi Indonesia.UMKM juga menjadi roda pengge
 <img width="855" height="635" alt="Screenshot 2026-04-06 at 07 26 47" src="https://github.com/user-attachments/assets/afd6519c-a1fe-41b1-9867-2a1da9825a2a" />
 
 
-## code 
-pada mermaid AI
+## Code 
+### Pada mermaid AI
 
 <img width="450" height="697" alt="Screenshot 2026-04-06 at 07 27 20" src="https://github.com/user-attachments/assets/80749120-37e7-46e0-9290-a8f497668d7d" />
 
-pada vs code:
+### Pada vs code:
 
 MainMenuPecel.java
 

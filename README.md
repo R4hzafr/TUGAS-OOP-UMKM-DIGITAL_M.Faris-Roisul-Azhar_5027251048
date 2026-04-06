@@ -3,11 +3,15 @@
 UMKM merupakan jantung perekonomian bagi Indonesia.UMKM juga menjadi roda penggerak ekonomi masyarakat Indoensia.Tidak terkecuali di daerah tempat tinggal saya yaitu di Kediri.di mana,UMKM di Kediri masih menggunakan cara manual dalam pengelolaan atau manajemen dari data pembelian mereka(UMKM).Disini program UMKM digital berbasis OOP hadir untuk membantu permasalahan tersebut program ini membantu dalam otomatisasi manajememn serta efisiensi dalam pengelolaan data.
 ## Class Diagram
 
-<img width="836" height="634" alt="Screenshot 2026-04-05 at 23 37 59" src="https://github.com/user-attachments/assets/92cab9a1-44cd-43f9-93aa-a525c0130dcd" />
+<img width="855" height="635" alt="Screenshot 2026-04-06 at 07 26 47" src="https://github.com/user-attachments/assets/afd6519c-a1fe-41b1-9867-2a1da9825a2a" />
+
 
 ## code 
+pada mermaid AIL:
+<img width="450" height="697" alt="Screenshot 2026-04-06 at 07 27 20" src="https://github.com/user-attachments/assets/80749120-37e7-46e0-9290-a8f497668d7d" />
+pada vs code:
 
-<img width="342" height="458" alt="Screenshot 2026-04-05 at 23 39 43" src="https://github.com/user-attachments/assets/ebebec11-2422-44fc-ba24-e892b6488d16" />
+
 
 ## Screenshot Output
 

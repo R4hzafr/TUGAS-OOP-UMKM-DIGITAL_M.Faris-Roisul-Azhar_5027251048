@@ -13,12 +13,20 @@ pada mermaid AI
 
 pada vs code:
 
+MainMenuPecel.java
+
 <img width="636" height="297" alt="Screenshot 2026-04-06 at 07 29 53" src="https://github.com/user-attachments/assets/a619eedb-5b1b-4caa-b392-0f5a69137844" />
+
+MenuPecel.java
 
 
 <img width="552" height="224" alt="Screenshot 2026-04-06 at 07 29 06" src="https://github.com/user-attachments/assets/e8d2245f-ac5d-4f21-9812-d3a9de15c543" />
 
+PecelKediri.java
+
 <img width="658" height="308" alt="Screenshot 2026-04-06 at 07 30 11" src="https://github.com/user-attachments/assets/0bc429e8-637d-4278-925f-00ae02d7ac7f" />
+
+Kasir.java
 
 <img width="752" height="287" alt="Screenshot 2026-04-06 at 07 30 21" src="https://github.com/user-attachments/assets/3d59816c-4e3e-40b8-a6b4-7f0c7a3404a2" />
 
